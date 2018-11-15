@@ -6,11 +6,15 @@ http://andrescolubri.net/projects/itch
 
 https://www.theatlantic.com/photo/2018/11/smartphones-are-everywhere/575878/
 
+https://archiveofphoneart.tumblr.com/
+
 ### Processing para Android
 
 https://android.processing.org/
 
 http://andrescolubri.net/androidbook/
+
+https://github.com/codeanticode/p5.dart
 
 ### Distribucion Android LineageOS 
 
@@ -22,7 +26,7 @@ https://wiki.lineageos.org/devices/
 
 Problema con el MAC address: https://appuals.com/fix-020000-mac-address-android-custom-roms/
 
-## Comunicacion decentralizada
+## Redes decentralizadas
 
 ### Wi-Fi direct
 
@@ -40,7 +44,7 @@ https://es.wikipedia.org/wiki/Red_ad_hoc_inal%C3%A1mbricas.
 
 Pero: ["Android doesn't support Wi-Fi ad-hoc mode."](https://developer.android.com/training/connect-devices-wirelessly/wifi-direct)
 
-### Libreria Underdark para meshnetwork
+### Libreria Underdark para mesh network
 
 http://underdark.io/
 
@@ -59,4 +63,3 @@ Protocolo: https://www.datprotocol.com/
 Tutorial: https://docs.datproject.org/tutorial
 
 Installador Dat para Android: https://github.com/staltz/dat-installer
-
