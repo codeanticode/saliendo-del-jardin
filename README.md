@@ -48,6 +48,8 @@ Ejemplo de uso Android: https://github.com/udark/underdark-android/
 
 Ejemplo de use iOS: https://github.com/udark/underdark-cocoa/
 
+## Distribucion de software fuera de los "app stores"
+
 ### Projecto Dat
 
 https://en.wikipedia.org/wiki/Dat_(software)
