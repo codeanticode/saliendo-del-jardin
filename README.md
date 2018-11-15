@@ -38,6 +38,12 @@ Libreria Ketai: http://ketai.org/
 
 Wi-Fi Direct en Ketai: http://ketai.org/examples/wifidirect-remotecursor/
 
+### Open Sound Control
+
+http://opensoundcontrol.org/introduction-osc
+
+Libreria oscP5: http://www.sojamo.de/libraries/oscP5/ 
+
 ### Red ad-hoc inalámbrica
 
 https://es.wikipedia.org/wiki/Red_ad_hoc_inal%C3%A1mbricas. 
