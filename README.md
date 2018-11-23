@@ -22,7 +22,11 @@ https://www.lineageos.org/
 
 https://wiki.lineageos.org/
 
-https://wiki.lineageos.org/devices/
+Guias de instalacion de LineageOS para distintos dispositivos: https://wiki.lineageos.org/devices/
+
+Previo a la instalacion de LineageOS, es necesario desbloquear el bootloader: https://www.quora.com/What-is-the-meaning-of-an-unlocked-bootloader-in-mobile-phones
+
+Habilitando root en LineageOS: http://www.lineageosdownloads.com/root-lineage-os/
 
 Problema con el MAC address: https://appuals.com/fix-020000-mac-address-android-custom-roms/
 
